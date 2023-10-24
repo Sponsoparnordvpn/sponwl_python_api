@@ -9,7 +9,7 @@ How to use the API ?
 First, you need to clone this GitHub, which is not hard to do.
 Enter this in your python command prompt
 ```sh
-git clone https://github.com/Sponsoparnordvpn/sponwl.git
+git clone https://github.com/Sponsoparnordvpn/sponwl_python_api
 ```
 
 
